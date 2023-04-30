@@ -1,0 +1,35 @@
+*{
+    font-family:montserrat;
+}
+
+body{
+    background:f1fbff;
+}
+
+.section-padding{
+    padding: 100px 0;
+}
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+}
+/* .container1{
+    padding-top: 15px;
+} */
+.about-section-padding
+{
+    margin-top: 50px;
+} 
+
+.about-text{
+    text-align: justify;
+}
+/* .card-img-top{
+    width: 100%;
+}
+     */
+.placestovisit{
+    margin-top: -22%;
+    font-size: 45px;
+}
+

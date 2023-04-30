@@ -1,0 +1,19 @@
+*{
+    font-family:montserrat;
+}
+
+body{
+    background:f1fbff;
+}
+
+.section-padding{
+    padding: 100px 0;
+}
+
+.card{
+    transition:0.5s ease-in-out;
+}
+
+.card:hover{
+    transform: scale(1.02);
+}
