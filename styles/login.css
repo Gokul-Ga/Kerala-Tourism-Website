@@ -1,15 +1,21 @@
-html,
-body {
-  height: 100%;
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
 }
 
-#page-content {
-  flex: 1 0 auto;
-}
 
-/* Other Classes for Page Styling */
-
-body {
+ body {
   background: #007bff;
   background: linear-gradient(to right, #0062E6, #33AEFF);
 }
+
+.row{
+  background-color: white;
+  border-radius: 30px;
+}
+
+#loginpic{
+  border-radius: 30px;
+}
+
